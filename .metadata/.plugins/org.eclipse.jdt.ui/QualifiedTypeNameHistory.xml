@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="contas.interfaces.Cadastro"/>
+    <fullyQualifiedTypeName name="contas.entity.Information"/>
 </qualifiedTypeNameHistroy>
